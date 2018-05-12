@@ -3,6 +3,16 @@
    <description></description>
    <name>demo</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>0</key>
+            <value>{'testSuiteFolderMappeds':['Test Suites'],'name':'qConnect - Sample Project','testCaseFolderMappeds':['Test Cases'],'id':78924}</value>
+         </entry>
+      </properties>
+      <type>PROJECT</type>
+   </integratedEntity>
    <UUID>a145900d-5f10-452a-8e54-a06b97f9210f</UUID>
    <migratedVersion>5.4.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
